@@ -1,0 +1,185 @@
+body{
+  font-family: 'Montserrat-Black', sans-serif;
+
+}
+
+p{
+  color: #8f8f8f;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+#title{
+  background-color: #ff4c68;
+}
+
+#heading{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: white;
+
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+/* Image */
+.iphone{
+  transform: rotate(25deg);
+  z-index: -1;
+}
+
+/* Navbar */
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding-bottom: 3.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.3rem;
+  font-family: "Montserrat";
+  font-weight: 300;
+
+}
+
+/* Buttons */
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+
+
+/* Icons */
+.apple-icon{
+  margin-right: 8px;
+}
+
+/* Features */
+
+#features{
+  padding: 7% 15%;
+  align-items: center;
+
+
+}
+
+/* Title */
+
+h3{
+  font-family: "Montserrat";
+  font-weight: 800;
+}
+
+/* Icons */
+
+.cont{
+  align-items: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.feature-icon{
+  margin-bottom: 20px;
+  color: #ef8172;
+  cursor: pointer;
+
+}
+
+.feature-icon:hover{
+  color: #ff4c68;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+/* Testimonials section */
+
+#testimonials{
+
+  text-align: center;
+  background-color:#ef8172;
+  color: #fff;}
+
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 30px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* Press */
+#press{
+    background-color:#ef8172;
+    text-align: center;
+    padding-bottom: 3%
+
+}
+
+.press-logos{
+  width: 12%;
+  margin: 0 2%;
+}
+
+
+/* Pricing */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+/* cta */
+
+#cta{
+  background-color: #ff4c68;
+  padding: 8% 15%;
+  text-align: center;
+
+}
+
+.cta-text{
+  font-size: 4.5rem;
+  color: #fff;
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  padding: 5%;
+}
+
+.footer-icon{
+  margin: 20px;
+  cursor: pointer;
+  color: Black;
+}
