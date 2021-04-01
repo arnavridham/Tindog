@@ -29,13 +29,14 @@ h2{
 }
 
 .container-fluid{
-  padding: 3% 15%;
+  padding: 3% 15% 10%;
 }
 
 /* Image */
 .iphone{
   transform: rotate(25deg);
-  z-index: -1;
+  position: absolute;
+  right: 22%;
 }
 
 /* Navbar */
@@ -79,6 +80,8 @@ h2{
 #features{
   padding: 7% 15%;
   align-items: center;
+  position: relative;
+  background-color: #fff;
 
 
 }
