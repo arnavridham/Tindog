@@ -184,3 +184,7 @@ p{
   color: Black;
   padding: 5px;
 }
+
+.footer-icon:hover{
+  color: #ff4c68;
+}
